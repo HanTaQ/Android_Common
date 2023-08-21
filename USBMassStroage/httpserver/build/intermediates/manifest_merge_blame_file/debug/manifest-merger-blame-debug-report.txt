@@ -1,0 +1,19 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.jahnen.libaums.core.httpserver" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:3:5-67
+7-->H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:3:22-64
+8
+9    <application>
+9-->H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:5:5-9:19
+10        <service android:name="me.jahnen.libaums.server.http.UsbFileHttpServerService" />
+10-->H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:7:9-90
+10-->H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:7:18-87
+11    </application>
+12
+13</manifest>

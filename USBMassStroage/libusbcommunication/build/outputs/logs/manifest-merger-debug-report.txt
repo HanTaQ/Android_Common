@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml:1:1-13
+INJECTED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml:1:1-13
+INJECTED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml:1:1-13
+	package
+		INJECTED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml
+		ADDED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml:1:1-13
+		INJECTED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml:1:1-13
+uses-sdk
+INJECTED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml
+INJECTED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml
+INJECTED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml
+INJECTED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml
+		ADDED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml
+		INJECTED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml
+		ADDED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml
+		INJECTED from H:\GithubDemo\libaums\libusbcommunication\src\main\AndroidManifest.xml

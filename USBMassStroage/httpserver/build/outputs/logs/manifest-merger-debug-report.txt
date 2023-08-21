@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:1:1-11:12
+INJECTED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:1:1-11:12
+INJECTED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:1:1-11:12
+	package
+		INJECTED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml
+		ADDED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:1:1-11:12
+		INJECTED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:3:22-64
+application
+ADDED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:5:5-9:19
+service#me.jahnen.libaums.server.http.UsbFileHttpServerService
+ADDED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:7:9-90
+	android:name
+		ADDED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml:7:18-87
+uses-sdk
+INJECTED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml
+INJECTED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml
+INJECTED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml
+INJECTED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml
+		ADDED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml
+		INJECTED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml
+		ADDED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml
+		INJECTED from H:\GithubDemo\libaums\httpserver\src\main\AndroidManifest.xml

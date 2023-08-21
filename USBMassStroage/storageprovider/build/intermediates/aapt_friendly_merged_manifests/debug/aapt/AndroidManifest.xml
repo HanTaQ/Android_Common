@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.jahnen.libaums.storageprovider" >
+
+    <uses-sdk android:minSdkVersion="16" />
+
+    <uses-feature
+        android:name="android.hardware.usb.host"
+        android:required="true" />
+
+    <application>
+        <provider
+            android:name="me.jahnen.libaums.core.storageprovider.UsbDocumentProvider"
+            android:authorities="me.jahnen.libaums.storageprovider.documents"
+            android:enabled="@bool/isAtLeastKitKat"
+            android:exported="true"
+            android:grantUriPermissions="true"
+            android:permission="android.permission.MANAGE_DOCUMENTS" >
+            <intent-filter>
+                <action android:name="android.content.action.DOCUMENTS_PROVIDER" />
+            </intent-filter>
+        </provider>
+    </application>
+
+</manifest>

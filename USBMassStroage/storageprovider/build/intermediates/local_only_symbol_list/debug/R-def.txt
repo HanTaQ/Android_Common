@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+bool isAtLeastKitKat
+drawable ic_usb_black_24dp
+string storage_root

@@ -1,0 +1,45 @@
+{
+  "buildFiles": [
+    "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "H:\\GithubDemo\\libaums\\libaums\\.cxx\\Debug\\2m5f555x\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "H:\\GithubDemo\\libaums\\libaums\\.cxx\\Debug\\2m5f555x\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "errno-lib::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "errno-lib",
+      "output": "H:\\GithubDemo\\libaums\\libaums\\build\\intermediates\\cxx\\Debug\\2m5f555x\\obj\\x86\\liberrno-lib.so",
+      "runtimeFiles": []
+    },
+    "usb-lib::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "usb-lib",
+      "output": "H:\\GithubDemo\\libaums\\libaums\\build\\intermediates\\cxx\\Debug\\2m5f555x\\obj\\x86\\libusb-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "D:\\sdk\\ndk\\25.2.9519653\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "D:\\sdk\\ndk\\25.2.9519653\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

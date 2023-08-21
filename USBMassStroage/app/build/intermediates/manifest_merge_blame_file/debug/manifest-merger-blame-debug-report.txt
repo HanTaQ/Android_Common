@@ -1,0 +1,195 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3/**
+4 * (C) Copyright 2014 mjahnen <github@mgns.tech>
+5 *
+6 * Licensed under the Apache License, Version 2.0 (the "License");
+7 * you may not use this file except in compliance with the License.
+8 * You may obtain a copy of the License at
+9 *
+10 *     http://www.apache.org/licenses/LICENSE-2.0
+11 *
+12 * Unless required by applicable law or agreed to in writing, software
+13 * distributed under the License is distributed on an "AS IS" BASIS,
+14 * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+15 * See the License for the specific language governing permissions and
+16 * limitations under the License.
+17 */
+18-->
+19<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+20    package="com.github.mjdev.usbfileman"
+21    android:versionCode="1"
+22    android:versionName="1.0" >
+23
+24    <uses-sdk
+25        android:minSdkVersion="16"
+25-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml
+26        android:targetSdkVersion="33" />
+26-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml
+27
+28    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+28-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:22:5-81
+28-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:22:22-78
+29    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+29-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:23:5-80
+29-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:23:22-77
+30    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+30-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:24:5-77
+30-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:24:22-74
+31    <uses-permission android:name="android.permission.INTERNET" />
+31-->[:httpserver] H:\GithubDemo\libaums\httpserver\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+31-->[:httpserver] H:\GithubDemo\libaums\httpserver\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-64
+32
+33    <uses-feature
+33-->[:storageprovider] H:\GithubDemo\libaums\storageprovider\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:35
+34        android:name="android.hardware.usb.host"
+34-->[:storageprovider] H:\GithubDemo\libaums\storageprovider\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-49
+35        android:required="true" />
+35-->[:storageprovider] H:\GithubDemo\libaums\storageprovider\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-32
+36
+37    <permission
+37-->[androidx.core:core:1.9.0] C:\Users\admin\.gradle\caches\transforms-3\ed1d2e049076b91940f045f3e6b133eb\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+38        android:name="com.github.mjdev.usbfileman.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+38-->[androidx.core:core:1.9.0] C:\Users\admin\.gradle\caches\transforms-3\ed1d2e049076b91940f045f3e6b133eb\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+39        android:protectionLevel="signature" />
+39-->[androidx.core:core:1.9.0] C:\Users\admin\.gradle\caches\transforms-3\ed1d2e049076b91940f045f3e6b133eb\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+40
+41    <uses-permission android:name="com.github.mjdev.usbfileman.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+41-->[androidx.core:core:1.9.0] C:\Users\admin\.gradle\caches\transforms-3\ed1d2e049076b91940f045f3e6b133eb\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+41-->[androidx.core:core:1.9.0] C:\Users\admin\.gradle\caches\transforms-3\ed1d2e049076b91940f045f3e6b133eb\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+42
+43    <application
+43-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:26:5-70:19
+44        android:allowBackup="true"
+44-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:27:9-35
+45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+45-->[androidx.core:core:1.9.0] C:\Users\admin\.gradle\caches\transforms-3\ed1d2e049076b91940f045f3e6b133eb\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+46        android:debuggable="true"
+47        android:icon="@mipmap/ic_launcher"
+47-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:28:9-43
+48        android:label="@string/app_name"
+48-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:29:9-41
+49        android:supportsRtl="true"
+49-->[:javafs] H:\GithubDemo\libaums\javafs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-35
+50        android:testOnly="true"
+51        android:theme="@style/AppTheme" >
+51-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:30:9-40
+52        <activity
+52-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:32:9-47:20
+53            android:name="me.jahnen.libaums.core.usbfileman.MainActivity"
+53-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:33:13-74
+54            android:exported="true"
+54-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:36:17-40
+55            android:label="@string/app_name"
+55-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:34:13-45
+56            android:screenOrientation="portrait" >
+56-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:35:13-49
+57            <intent-filter>
+57-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:37:13-42:29
+58                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+58-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:38:17-90
+58-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:38:25-87
+59                <action android:name="android.intent.action.MAIN" />
+59-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:39:17-69
+59-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:39:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:41:17-77
+61-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:41:27-74
+62            </intent-filter>
+63
+64            <meta-data
+64-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:44:13-46:57
+65                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+65-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:45:17-79
+66                android:resource="@xml/device_filter" />
+66-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:46:17-54
+67        </activity>
+68
+69        <provider
+69-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:49:9-59:20
+70            android:name="me.jahnen.libaums.storageprovider.UsbDocumentProvider"
+70-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:50:13-81
+71            android:authorities="me.jahnen.libaums.storageprovider.documents"
+71-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:51:13-78
+72            android:enabled="@bool/isAtLeastKitKat"
+72-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:55:13-52
+73            android:exported="true"
+73-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:52:13-36
+74            android:grantUriPermissions="true"
+74-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:53:13-47
+75            android:permission="android.permission.MANAGE_DOCUMENTS" >
+75-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:54:13-69
+76            <intent-filter>
+76-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:56:13-58:29
+77                <action android:name="android.content.action.DOCUMENTS_PROVIDER" />
+77-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:57:17-84
+77-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:57:25-81
+78            </intent-filter>
+79        </provider>
+80        <provider
+81            android:name="androidx.core.content.FileProvider"
+81-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:62:13-62
+82            android:authorities="com.github.mjdev.usbfileman.provider"
+82-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:63:13-60
+83            android:exported="false"
+83-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:64:13-37
+84            android:grantUriPermissions="true" >
+84-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:65:13-47
+85            <meta-data
+85-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:66:13-68:57
+86                android:name="android.support.FILE_PROVIDER_PATHS"
+86-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:67:17-67
+87                android:resource="@xml/provider_paths" />
+87-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:68:17-55
+88        </provider>
+89
+90        <service android:name="me.jahnen.libaums.server.http.UsbFileHttpServerService" />
+90-->[:httpserver] H:\GithubDemo\libaums\httpserver\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-90
+90-->[:httpserver] H:\GithubDemo\libaums\httpserver\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-87
+91
+92        <provider
+92-->[:storageprovider] H:\GithubDemo\libaums\storageprovider\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-22:20
+93            android:name="me.jahnen.libaums.core.storageprovider.UsbDocumentProvider"
+93-->[:storageprovider] H:\GithubDemo\libaums\storageprovider\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-86
+94            android:authorities="me.jahnen.libaums.storageprovider.documents"
+94-->[:storageprovider] H:\GithubDemo\libaums\storageprovider\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-78
+95            android:enabled="@bool/isAtLeastKitKat"
+95-->[:storageprovider] H:\GithubDemo\libaums\storageprovider\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-52
+96            android:exported="true"
+96-->[:storageprovider] H:\GithubDemo\libaums\storageprovider\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-36
+97            android:grantUriPermissions="true"
+97-->[:storageprovider] H:\GithubDemo\libaums\storageprovider\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-47
+98            android:permission="android.permission.MANAGE_DOCUMENTS" >
+98-->[:storageprovider] H:\GithubDemo\libaums\storageprovider\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-69
+99            <intent-filter>
+99-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:56:13-58:29
+100                <action android:name="android.content.action.DOCUMENTS_PROVIDER" />
+100-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:57:17-84
+100-->H:\GithubDemo\libaums\app\src\main\AndroidManifest.xml:57:25-81
+101            </intent-filter>
+102        </provider>
+103        <provider
+103-->[androidx.emoji2:emoji2:1.2.0] C:\Users\admin\.gradle\caches\transforms-3\af9d9f709f1cc67e039e4d67a3a22f8f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+104            android:name="androidx.startup.InitializationProvider"
+104-->[androidx.emoji2:emoji2:1.2.0] C:\Users\admin\.gradle\caches\transforms-3\af9d9f709f1cc67e039e4d67a3a22f8f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+105            android:authorities="com.github.mjdev.usbfileman.androidx-startup"
+105-->[androidx.emoji2:emoji2:1.2.0] C:\Users\admin\.gradle\caches\transforms-3\af9d9f709f1cc67e039e4d67a3a22f8f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+106            android:exported="false" >
+106-->[androidx.emoji2:emoji2:1.2.0] C:\Users\admin\.gradle\caches\transforms-3\af9d9f709f1cc67e039e4d67a3a22f8f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+107            <meta-data
+107-->[androidx.emoji2:emoji2:1.2.0] C:\Users\admin\.gradle\caches\transforms-3\af9d9f709f1cc67e039e4d67a3a22f8f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+108                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+108-->[androidx.emoji2:emoji2:1.2.0] C:\Users\admin\.gradle\caches\transforms-3\af9d9f709f1cc67e039e4d67a3a22f8f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+109                android:value="androidx.startup" />
+109-->[androidx.emoji2:emoji2:1.2.0] C:\Users\admin\.gradle\caches\transforms-3\af9d9f709f1cc67e039e4d67a3a22f8f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+110            <meta-data
+110-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\admin\.gradle\caches\transforms-3\bbaa63cc5a8f1e93ac08634fe6b226dc\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+111                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+111-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\admin\.gradle\caches\transforms-3\bbaa63cc5a8f1e93ac08634fe6b226dc\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+112                android:value="androidx.startup" />
+112-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\admin\.gradle\caches\transforms-3\bbaa63cc5a8f1e93ac08634fe6b226dc\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+113        </provider>
+114    </application>
+115
+116</manifest>

@@ -1,0 +1,5 @@
+ninja: Entering directory `H:\GithubDemo\libaums\libaums\.cxx\Debug\2m5f555x\armeabi-v7a'
+[1/4] Building C object CMakeFiles/errno-lib.dir/src/c/errno.c.o
+[2/4] Building C object CMakeFiles/usb-lib.dir/src/c/usb.c.o
+[3/4] Linking C shared library ..\..\..\..\build\intermediates\cxx\Debug\2m5f555x\obj\armeabi-v7a\liberrno-lib.so
+[4/4] Linking C shared library ..\..\..\..\build\intermediates\cxx\Debug\2m5f555x\obj\armeabi-v7a\libusb-lib.so

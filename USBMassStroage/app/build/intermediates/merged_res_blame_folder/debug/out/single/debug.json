@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "me.jahnen.libaums.core.usbfileman.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "me.jahnen.libaums.core.usbfileman.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.jahnen.libaums.core.usbfileman.app-merged_res-29:/xml_provider_paths.xml.flat",
+        "source": "me.jahnen.libaums.core.usbfileman.app-main-31:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "me.jahnen.libaums.core.usbfileman.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "me.jahnen.libaums.core.usbfileman.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.jahnen.libaums.core.usbfileman.app-merged_res-29:/menu_context.xml.flat",
+        "source": "me.jahnen.libaums.core.usbfileman.app-main-31:/menu/context.xml"
+    },
+    {
+        "merged": "me.jahnen.libaums.core.usbfileman.app-merged_res-29:/layout_content_main.xml.flat",
+        "source": "me.jahnen.libaums.core.usbfileman.app-main-31:/layout/content_main.xml"
+    },
+    {
+        "merged": "me.jahnen.libaums.core.usbfileman.app-merged_res-29:/xml_device_filter.xml.flat",
+        "source": "me.jahnen.libaums.core.usbfileman.app-main-31:/xml/device_filter.xml"
+    },
+    {
+        "merged": "me.jahnen.libaums.core.usbfileman.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "me.jahnen.libaums.core.usbfileman.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.jahnen.libaums.core.usbfileman.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "me.jahnen.libaums.core.usbfileman.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "me.jahnen.libaums.core.usbfileman.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "me.jahnen.libaums.core.usbfileman.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.jahnen.libaums.core.usbfileman.app-merged_res-29:/layout_list_item.xml.flat",
+        "source": "me.jahnen.libaums.core.usbfileman.app-main-31:/layout/list_item.xml"
+    },
+    {
+        "merged": "me.jahnen.libaums.core.usbfileman.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "me.jahnen.libaums.core.usbfileman.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.jahnen.libaums.core.usbfileman.app-merged_res-29:/menu_main.xml.flat",
+        "source": "me.jahnen.libaums.core.usbfileman.app-main-31:/menu/main.xml"
+    },
+    {
+        "merged": "me.jahnen.libaums.core.usbfileman.app-merged_res-29:/layout_drawer_list_item.xml.flat",
+        "source": "me.jahnen.libaums.core.usbfileman.app-main-31:/layout/drawer_list_item.xml"
+    }
+]

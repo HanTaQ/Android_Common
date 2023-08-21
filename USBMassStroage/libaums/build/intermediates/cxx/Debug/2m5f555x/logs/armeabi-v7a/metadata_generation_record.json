@@ -1,0 +1,156 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: armeabi-v7a",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1320353766
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON H:\\GithubDemo\\libaums\\libaums\\.cxx\\Debug\\2m5f555x\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -167172478
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -553685464
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027H:\\GithubDemo\\libaums\\libaums\\.cxx\\Debug\\2m5f555x\\armeabi-v7a\u0027",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1343764356
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027H:\\GithubDemo\\libaums\\libaums\\.cxx\\Debug\\2m5f555x\\armeabi-v7a\u0027",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -327658872
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"D:\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HH:\\\\GithubDemo\\\\libaums\\\\libaums\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d19\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-19\" ^\n  \"-DANDROID_ABI\u003darmeabi-v7a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\" ^\n  \"-DANDROID_NDK\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dD:\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dH:\\\\GithubDemo\\\\libaums\\\\libaums\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2m5f555x\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dH:\\\\GithubDemo\\\\libaums\\\\libaums\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2m5f555x\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BH:\\\\GithubDemo\\\\libaums\\\\libaums\\\\.cxx\\\\Debug\\\\2m5f555x\\\\armeabi-v7a\" ^\n  -GNinja\n",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 762904518
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"D:\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HH:\\\\GithubDemo\\\\libaums\\\\libaums\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d19\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-19\" ^\n  \"-DANDROID_ABI\u003darmeabi-v7a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\" ^\n  \"-DANDROID_NDK\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dD:\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dH:\\\\GithubDemo\\\\libaums\\\\libaums\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2m5f555x\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dH:\\\\GithubDemo\\\\libaums\\\\libaums\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2m5f555x\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BH:\\\\GithubDemo\\\\libaums\\\\libaums\\\\.cxx\\\\Debug\\\\2m5f555x\\\\armeabi-v7a\" ^\n  -GNinja\n",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1442182681
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of H:\\GithubDemo\\libaums\\libaums\\.cxx\\Debug\\2m5f555x\\armeabi-v7a\\compile_commands.json.bin normally",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2072112226
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1331270312
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked H:\\GithubDemo\\libaums\\libaums\\.cxx\\Debug\\2m5f555x\\armeabi-v7a\\compile_commands.json to H:\\GithubDemo\\libaums\\libaums\\.cxx\\tools\\debug\\armeabi-v7a\\compile_commands.json",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 376726616
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1025623900
+  }
+]

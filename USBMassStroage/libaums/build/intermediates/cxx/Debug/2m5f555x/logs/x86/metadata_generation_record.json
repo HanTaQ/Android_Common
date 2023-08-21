@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: x86",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 373743694
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027H:\\GithubDemo\\libaums\\libaums\\.cxx\\Debug\\2m5f555x\\x86\\android_gradle_build.json\u0027 was up-to-date",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1484671073
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "H:\\GithubDemo\\libaums\\libaums\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1330618312
+  }
+]

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "H:/GithubDemo/libaums/libaums/.cxx/Debug/2m5f555x/x86",
+  "command": "D:\\sdk\\ndk\\25.2.9519653\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=D:/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Derrno_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\errno-lib.dir\\src\\c\\errno.c.o -c H:\\GithubDemo\\libaums\\libaums\\src\\c\\errno.c",
+  "file": "H:\\GithubDemo\\libaums\\libaums\\src\\c\\errno.c"
+},
+{
+  "directory": "H:/GithubDemo/libaums/libaums/.cxx/Debug/2m5f555x/x86",
+  "command": "D:\\sdk\\ndk\\25.2.9519653\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=D:/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dusb_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\usb-lib.dir\\src\\c\\usb.c.o -c H:\\GithubDemo\\libaums\\libaums\\src\\c\\usb.c",
+  "file": "H:\\GithubDemo\\libaums\\libaums\\src\\c\\usb.c"
+}
+]

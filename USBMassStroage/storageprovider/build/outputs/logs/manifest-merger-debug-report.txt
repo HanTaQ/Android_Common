@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:1:1-23:12
+	package
+		INJECTED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml
+		ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:1:1-23:12
+		INJECTED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:1:11-69
+uses-feature#android.hardware.usb.host
+ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:3:5-5:35
+	android:required
+		ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:5:9-32
+	android:name
+		ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:4:9-49
+application
+ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:7:5-21:19
+provider#me.jahnen.libaums.core.storageprovider.UsbDocumentProvider
+ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:9:9-19:20
+	android:grantUriPermissions
+		ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:13:13-47
+	android:enabled
+		ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:15:13-52
+	android:authorities
+		ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:11:13-78
+	android:exported
+		ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:12:13-36
+	android:permission
+		ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:14:13-69
+	android:name
+		ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:10:13-86
+intent-filter#action:name:android.content.action.DOCUMENTS_PROVIDER
+ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:16:13-18:29
+action#android.content.action.DOCUMENTS_PROVIDER
+ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:17:17-84
+	android:name
+		ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:17:25-81
+uses-sdk
+INJECTED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml
+INJECTED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml
+INJECTED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml
+INJECTED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml
+		ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml
+		INJECTED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml
+		ADDED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml
+		INJECTED from H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml

@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.jahnen.libaums.storageprovider" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml
+6
+7    <uses-feature
+7-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:3:5-5:35
+8        android:name="android.hardware.usb.host"
+8-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:4:9-49
+9        android:required="true" />
+9-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:5:9-32
+10
+11    <application>
+11-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:7:5-21:19
+12        <provider
+12-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:9:9-19:20
+13            android:name="me.jahnen.libaums.core.storageprovider.UsbDocumentProvider"
+13-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:10:13-86
+14            android:authorities="me.jahnen.libaums.storageprovider.documents"
+14-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:11:13-78
+15            android:enabled="@bool/isAtLeastKitKat"
+15-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:15:13-52
+16            android:exported="true"
+16-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:12:13-36
+17            android:grantUriPermissions="true"
+17-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:13:13-47
+18            android:permission="android.permission.MANAGE_DOCUMENTS" >
+18-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:14:13-69
+19            <intent-filter>
+19-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:16:13-18:29
+20                <action android:name="android.content.action.DOCUMENTS_PROVIDER" />
+20-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:17:17-84
+20-->H:\GithubDemo\libaums\storageprovider\src\main\AndroidManifest.xml:17:25-81
+21            </intent-filter>
+22        </provider>
+23    </application>
+24
+25</manifest>

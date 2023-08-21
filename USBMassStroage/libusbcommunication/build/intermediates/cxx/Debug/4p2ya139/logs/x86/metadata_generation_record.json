@@ -1,0 +1,114 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: x86",
+    "file_": "H:\\GithubDemo\\libaums\\libusbcommunication\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1244211530
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON H:\\GithubDemo\\libaums\\libusbcommunication\\.cxx\\Debug\\4p2ya139\\x86\\android_gradle_build.json due to:",
+    "file_": "H:\\GithubDemo\\libaums\\libusbcommunication\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1973322436
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "H:\\GithubDemo\\libaums\\libusbcommunication\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1818332196
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027H:\\GithubDemo\\libaums\\libusbcommunication\\.cxx\\Debug\\4p2ya139\\x86\u0027",
+    "file_": "H:\\GithubDemo\\libaums\\libusbcommunication\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -940033798
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027H:\\GithubDemo\\libaums\\libusbcommunication\\.cxx\\Debug\\4p2ya139\\x86\u0027",
+    "file_": "H:\\GithubDemo\\libaums\\libusbcommunication\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -706945786
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"D:\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HH:\\\\GithubDemo\\\\libaums\\\\libusbcommunication\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d19\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-19\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dD:\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dH:\\\\GithubDemo\\\\libaums\\\\libusbcommunication\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\4p2ya139\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dH:\\\\GithubDemo\\\\libaums\\\\libusbcommunication\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\4p2ya139\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BH:\\\\GithubDemo\\\\libaums\\\\libusbcommunication\\\\.cxx\\\\Debug\\\\4p2ya139\\\\x86\" ^\n  -GNinja ^\n  \"-DLIBUSB_PATH\u003dnull\"\n",
+    "file_": "H:\\GithubDemo\\libaums\\libusbcommunication\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1818453068
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"D:\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HH:\\\\GithubDemo\\\\libaums\\\\libusbcommunication\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d19\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-19\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dD:\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dH:\\\\GithubDemo\\\\libaums\\\\libusbcommunication\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\4p2ya139\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dH:\\\\GithubDemo\\\\libaums\\\\libusbcommunication\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\4p2ya139\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BH:\\\\GithubDemo\\\\libaums\\\\libusbcommunication\\\\.cxx\\\\Debug\\\\4p2ya139\\\\x86\" ^\n  -GNinja ^\n  \"-DLIBUSB_PATH\u003dnull\"\n",
+    "file_": "H:\\GithubDemo\\libaums\\libusbcommunication\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1531714997
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: -- The C compiler identification is Clang 14.0.7\n-- The CXX compiler identification is Clang 14.0.7\n-- Detecting C compiler ABI info\n-- Detecting C compiler ABI info - done\n-- Check for working C compiler: D:/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe - skipped\n-- Detecting C compile features\n-- Detecting C compile features - done\n-- Detecting CXX compiler ABI info\n-- Detecting CXX compiler ABI info - done\n-- Check for working CXX compiler: D:/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - skipped\n-- Detecting CXX compile features\n-- Detecting CXX compile features - done\n-- Configuring done\n\nC++ build system [configure] failed while executing:\n    @echo off\n    \"D:\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n      \"-HH:\\\\GithubDemo\\\\libaums\\\\libusbcommunication\" ^\n      \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n      \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n      \"-DCMAKE_SYSTEM_VERSION\u003d19\" ^\n      \"-DANDROID_PLATFORM\u003dandroid-19\" ^\n      \"-DANDROID_ABI\u003dx86\" ^\n      \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n      \"-DANDROID_NDK\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n      \"-DCMAKE_ANDROID_NDK\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n      \"-DCMAKE_TOOLCHAIN_FILE\u003dD:\\\\sdk\\\\ndk\\\\25.2.9519653\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n      \"-DCMAKE_MAKE_PROGRAM\u003dD:\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n      \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dH:\\\\GithubDemo\\\\libaums\\\\libusbcommunication\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\4p2ya139\\\\obj\\\\x86\" ^\n      \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dH:\\\\GithubDemo\\\\libaums\\\\libusbcommunication\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\4p2ya139\\\\obj\\\\x86\" ^\n      \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n      \"-BH:\\\\GithubDemo\\\\libaums\\\\libusbcommunication\\\\.cxx\\\\Debug\\\\4p2ya139\\\\x86\" ^\n      -GNinja ^\n      \"-DLIBUSB_PATH\u003dnull\"\n  from H:\\GithubDemo\\libaums\\libusbcommunication\nCMake Warning (dev) in CMakeLists.txt:\n  No project() command is present.  The top-level CMakeLists.txt file must\n  contain a literal, direct call to the project() command.  Add a line of\n  code such as\n\n    project(ProjectName)\n\n  near the top of the file, but after cmake_minimum_required().\n\n  CMake is pretending there is a \"project(Project)\" command on the first\n  line.\nThis warning is for project developers.  Use -Wno-dev to suppress it.\n\nUsing libusb path null\nCMake Error at CMakeLists.txt:11 (add_library):\n  Cannot find source file:\n\n    null/libusb/core.c\n\n  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h\n  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc\n\n\nCMake Error at CMakeLists.txt:11 (add_library):\n  No SOURCES given to target: libusb\n\n\nCMake Generate step failed.  Build files cannot be regenerated correctly.",
+    "file_": "H:\\GithubDemo\\libaums\\libusbcommunication\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 197648903
+  }
+]

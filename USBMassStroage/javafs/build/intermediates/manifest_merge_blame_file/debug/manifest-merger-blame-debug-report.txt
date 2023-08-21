@@ -1,0 +1,16 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.jahnen.libaums.javafs" >
+4
+5    <uses-sdk android:minSdkVersion="15" />
+5-->H:\GithubDemo\libaums\javafs\src\main\AndroidManifest.xml
+6
+7    <application
+7-->H:\GithubDemo\libaums\javafs\src\main\AndroidManifest.xml:3:5-6:19
+8        android:allowBackup="true"
+8-->H:\GithubDemo\libaums\javafs\src\main\AndroidManifest.xml:3:18-44
+9        android:supportsRtl="true" >
+9-->H:\GithubDemo\libaums\javafs\src\main\AndroidManifest.xml:4:9-35
+10    </application>
+11
+12</manifest>

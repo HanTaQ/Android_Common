@@ -1,0 +1,5 @@
+# ninja log v5
+1	334	7143050120000286	CMakeFiles/errno-lib.dir/src/c/errno.c.o	187aabb78501ab14
+171	556	7143050121457110	CMakeFiles/usb-lib.dir/src/c/usb.c.o	51bf58dcfef380d6
+336	898	7143050126235371	../../../../build/intermediates/cxx/Debug/2m5f555x/obj/armeabi-v7a/liberrno-lib.so	fbc1b64f91414b5a
+557	942	7143050126684172	../../../../build/intermediates/cxx/Debug/2m5f555x/obj/armeabi-v7a/libusb-lib.so	c4a95a9fcc9d67d3

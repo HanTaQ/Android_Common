@@ -1,0 +1,4 @@
+H:/GithubDemo/libaums/libaums/.cxx/Debug/2m5f555x/x86/CMakeFiles/errno-lib.dir
+H:/GithubDemo/libaums/libaums/.cxx/Debug/2m5f555x/x86/CMakeFiles/usb-lib.dir
+H:/GithubDemo/libaums/libaums/.cxx/Debug/2m5f555x/x86/CMakeFiles/edit_cache.dir
+H:/GithubDemo/libaums/libaums/.cxx/Debug/2m5f555x/x86/CMakeFiles/rebuild_cache.dir
